@@ -13,18 +13,18 @@ SHOW CHARACTER SET;
 SHOW COLLATION;
 ```
 ### 5. Sebutkan 5 tipe data numeric pada MYSQL!
--INT
--FLOAT
--DOUBLE
--TINYINT
--BIGINT
+- INT
+- FLOAT
+- DOUBLE
+- TINYINT
+- BIGINT
 ### 6. Sebutkan 5 tipe data string pada MYSQL!
--CHAR
--VARCHAR
--TEXT
--TINYTEXT
--LONGTEXT
+- CHAR
+- VARCHAR
+- TEXT
+- TINYTEXT
+- LONGTEXT
 ### 7. Sebutkan 3 tipe data date pada MYSQL!
--DATE
--TIME
--DATETIME
+- DATE
+- TIME
+- DATETIME
